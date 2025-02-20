@@ -8,5 +8,6 @@ This is a project to demonstrate the use of Node.js modules, with functions that
 - Advanced function that displays a message
 
 ### Instructions
-To run this project, make sure you have Node.js installed. Then, run the `index.js` file with the following command:
+To run this project, make sure you have Node.js installed. Then, run the `index.js` file with the following command:    ```bash
+   node index.js
 
